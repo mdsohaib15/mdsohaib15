@@ -109,9 +109,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsohaib15&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mdsohaib15&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsohaib15&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdsohaib15&layout=compact&theme=radical)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdsohaib15&theme=radical)
 
